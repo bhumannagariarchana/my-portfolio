@@ -36,8 +36,7 @@ Strong in Java, Data Structures & Algorithms, and full-stack development, with a
 ---
 
 ## 🔹 Live Demo
-🔗 https://696dd46983633c712ab53528--silly-pothos-ee37a7.netlify.app/
-
+🔗 https://inquisitive-queijadas-53560e.netlify.app/
 ---
 
 ## 🔹 Contact
